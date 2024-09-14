@@ -1,3 +1,4 @@
+//Christian Villegas - 1592623
 export class Node{
     private next: Node | null;
     private previous: Node | null;

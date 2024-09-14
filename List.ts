@@ -1,3 +1,4 @@
+//Christian Villegas - 1592623
 import { Node } from "./Node";
 export class List{
     private size: number;
